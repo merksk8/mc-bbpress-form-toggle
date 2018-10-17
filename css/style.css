@@ -1,0 +1,12 @@
+.entry-content .bbp-form{
+	display:none;
+}
+.mc_new_topic.button{
+	width:100%;	
+}
+.mc_new_topic.button {
+    width: 100%;
+    display: block;
+    text-align: center;
+	cursor:pointer;
+}
